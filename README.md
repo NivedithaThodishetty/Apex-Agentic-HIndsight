@@ -1,9 +1,10 @@
-# Loop: a social media engagement agent that learns with Hindsight memory
+<img width="1600" height="1000" alt="WhatsApp Image 2026-09-28 at 3 11 23 PM" src="https://github.com/user-attachments/assets/2e328b02-ad68-4dfc-a966-dcac61786ccc" /># Loop: a social media engagement agent that learns with Hindsight memory
 
 Loop drafts posts for one brand and gets better every time: it recalls what worked before,
 writes with that evidence, and stores the results you log so the next draft is smarter.
 
-![Loop answering with memory on](docs/screenshots/03-memory-on.png)
+![Loop answering with memory on](![Uploading WhatsApp Image 2026-09-28 at 3.11.23 PM.jpeg…])
+
 
 ## Run it
 1. `python -m venv venv` then activate it (Windows: `venv\Scripts\activate`, Mac/Linux: `source venv/bin/activate`)
