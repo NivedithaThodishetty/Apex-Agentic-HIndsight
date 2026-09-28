@@ -3,7 +3,7 @@
 Loop drafts posts for one brand and gets better every time: it recalls what worked before,
 writes with that evidence, and stores the results you log so the next draft is smarter.
 
-![Loop answering with memory on]("C:\Users\Niveditha\Desktop\pic1.jpeg")
+![Loop answering with memory on](docs/loop-answering-with-memory.jpeg)
 
 ## Run it
 1. `python -m venv venv` then activate it (Windows: `venv\Scripts\activate`, Mac/Linux: `source venv/bin/activate`)
